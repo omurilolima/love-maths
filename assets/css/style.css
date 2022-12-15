@@ -92,7 +92,8 @@ body {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: #445361;
+    color: #E6ECF0;
+    background-color: #445361;
 }
 
 .btn--big::after{
